@@ -205,4 +205,14 @@ canvas, .text, .frame, .outline, img {
   visibility: hidden;
 }
 
+#banner {
+  background-color: black;
+  width: 320px;
+  height: 100px;
+}
+
+.frame {
+  opacity: 1;
+}
+
 /*# sourceMappingURL=main.css.map */
